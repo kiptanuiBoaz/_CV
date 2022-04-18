@@ -1,0 +1,62 @@
+
+#cv{
+    width: 65%;
+    
+    font-family: 'Poppins', sans-serif;
+    margin-top: 6mm;
+    
+}
+img{
+    border-radius:50% ;
+}
+div{
+    margin-left: 12mm;
+}
+.marg{
+    margin-left: 11mm;
+}
+.back{
+    background-color: tan;
+    width: 100%;
+   
+}
+.top-row{
+    background-color:rgb(39, 39, 46) ;
+    color: white;
+    
+}
+a{
+    margin-top:1.3cm;
+    /* text-align: center; */
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: tan;
+    text-decoration: none;
+
+}
+img{
+    margin-left: 4mm;
+    height:237px;
+    width: 200;
+    object-fit: cover;
+}
+h3{
+    margin-top: 10mm;
+    font-size: 8mm;
+}
+.footer{
+    height: 1.5cm;
+    width: 100%;
+    background-color: rgb(39, 39, 46) ;
+    margin-left: 3.5mm;
+}
+.ftag:hover{
+    color: rgb(39, 39, 46);
+    text-decoration: none;
+}
+.copyright{
+    text-align: center;
+    color: white;
+}
