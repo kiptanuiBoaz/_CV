@@ -50,7 +50,9 @@ h3{
     height: 1.5cm;
     width: 100%;
     background-color: rgb(39, 39, 46) ;
-    margin-left: 3.5mm;
+    margin-left:-8mm;
+    margin-right:-3mm;
+    
 }
 .ftag:hover{
     color: rgb(39, 39, 46);
